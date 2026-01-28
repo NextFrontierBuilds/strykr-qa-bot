@@ -1,7 +1,7 @@
 {
   "name": "strykr-qa-bot",
-  "version": "1.0.0",
-  "description": "Strykr-specific QA automation extending web-qa-bot",
+  "version": "0.1.0",
+  "description": "Strykr AI platform QA automation. Pre-built test suites for crypto signals, stock signals, news, and AI chat. Built for vibe coding with Claude, Cursor, and GPT agents.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -17,16 +17,31 @@
   },
   "keywords": [
     "strykr",
+    "prism",
     "qa",
     "testing",
     "automation",
     "web-qa-bot",
-    "clawdbot"
+    "clawdbot",
+    "moltbot",
+    "ai",
+    "vibe-coding",
+    "cursor",
+    "claude",
+    "gpt",
+    "copilot",
+    "crypto",
+    "trading",
+    "fintech",
+    "market-intelligence",
+    "defi",
+    "solana",
+    "evm"
   ],
   "author": "Next Frontier",
   "license": "MIT",
   "peerDependencies": {
-    "web-qa-bot": "^1.0.0"
+    "web-qa-bot": "^0.1.0"
   },
   "devDependencies": {
     "typescript": "^5.3.0"
