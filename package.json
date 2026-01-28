@@ -1,7 +1,7 @@
 {
   "name": "strykr-qa-bot",
-  "version": "0.1.0",
-  "description": "Strykr AI platform QA automation. Pre-built test suites for crypto signals, stock signals, news, and AI chat. Built for vibe coding with Claude, Cursor, and GPT agents.",
+  "version": "0.1.1",
+  "description": "Automated QA for Strykr AI trading platform. Pre-built test suites for crypto signals, stocks, news, AI chat. Drop-in CI/CD testing. Works with Cursor, Claude, Playwright.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
